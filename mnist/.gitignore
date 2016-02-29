@@ -3,6 +3,9 @@
 *.pkl
 *.gz
 *.state
+*.model
 
 # Python
 .pyc
+
+.DS_Store
