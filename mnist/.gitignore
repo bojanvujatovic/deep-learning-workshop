@@ -1,0 +1,8 @@
+# Chainer 
+*.dot
+*.pkl
+*.gz
+*.state
+
+# Python
+.pyc
